@@ -32,7 +32,7 @@
   "repository": "Permissionless-Software-Foundation/burn-app",
   "dependencies": {
     "@psf/bch-js": "^4.15.21",
-    "axios": "^0.21.1",
+    "axios": "^1.13.5",
     "bcryptjs": "^2.4.3",
     "glob": "^7.1.6",
     "jsonwebtoken": "^8.5.1",
@@ -58,7 +58,7 @@
     "apidoc": "^0.26.0",
     "chai": "^4.3.0",
     "coveralls": "^3.1.0",
-    "eslint": "^7.19.0",
+    "eslint": "^10.0.0",
     "eslint-config-prettier": "^7.2.0",
     "eslint-config-promise": "^2.0.0",
     "eslint-config-standard": "^16.0.2",
